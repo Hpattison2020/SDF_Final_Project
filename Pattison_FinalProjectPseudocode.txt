@@ -1,0 +1,44 @@
+User opens the program
+    The loading screen appears
+While the loading screen opens 
+    To create account appears
+If user does Not have account
+    Then user creates account
+    User selects subscription
+If user does have account 
+    User signs In To account
+Home screen appears
+    If user selects talk To representative
+While program Is connecting
+    User can take photos
+If user does Not talk To representative 
+    User can Select take photos
+If user opens photo
+    Customize button appears
+While user customizes 
+    Message opens 
+Ask user If purchasing furniture
+    If user Is Not purchasing
+Show message To save
+    If user does Not save
+     Delete changes
+If user does save 
+  file furniture into cart
+If user Is purchasing
+    Ask move To cart Or checkout
+If user selects move To cart
+    Items move To cart
+If user selects checkout 
+    Checkout window opens
+    User selects payment
+Thank you message appears
+
+
+
+
+
+
+
+
+
+
