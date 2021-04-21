@@ -18,12 +18,6 @@ If user opens photo
 While user customizes 
     Message opens 
 Ask user If purchasing furniture
-    If user Is Not purchasing
-Show message To save
-    If user does Not save
-     Delete changes
-If user does save 
-  file furniture into cart
 If user Is purchasing
     Ask move To cart Or checkout
 If user selects move To cart
@@ -31,7 +25,14 @@ If user selects move To cart
 If user selects checkout 
     Checkout window opens
     User selects payment
+    If user Is Not purchasing
+Show message To save
+    If user does Not save
+     Delete changes
+If user does save 
+  file furniture into cart
 Thank you message appears
+
 
 
 
